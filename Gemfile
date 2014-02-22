@@ -1,2 +1,2 @@
 source :rubygems
-gem 'rulers', '0.0.2'
+gem 'rulers', :path => '~/projects/rulers'
