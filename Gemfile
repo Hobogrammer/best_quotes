@@ -1,5 +1,5 @@
 source :rubygems
-gem 'rulers', :path => '~/projects/rulers'
+gem 'rulers', :path => '~/projects/ruby/rulers'
 
 group :development do
   gem 'rerun'
